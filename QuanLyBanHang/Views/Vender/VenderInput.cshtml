@@ -1,0 +1,235 @@
+﻿
+@{
+    ViewBag.Title = "VenderInput";
+    Layout = "~/Views/Shared/_LayoutInput.cshtml";
+}
+
+
+@{
+    ViewBag.Title = "CustomerInput";
+    Layout = "~/Views/Shared/_LayoutInput.cshtml";
+}
+@if (ViewBag.Result.Count > 0)
+{
+    <div id="main-content">
+        <!-- BEGIN Page Title -->
+        <div class="page-title">
+            <div>
+                <h1><i class="fa fa-wrench"></i>Cập nhật thông tin nhà cung cấp</h1>
+            </div>
+        </div>
+        <!-- END Page Title -->
+        <!-- BEGIN Breadcrumb -->
+        <!-- END Breadcrumb -->
+        <!-- BEGIN Main Content -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-title">
+                        <h3><i class="fa fa-bars"></i> Thông tin</h3>
+                        <div class="box-tool">
+                            <a data-action="collapse" href="#"><i class="fa fa-chevron-up"></i></a>
+                            <a data-action="close" href="#"><i class="fa fa-times"></i></a>
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <form action="#" class="form-horizontal" id="validation-form" method="post">
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="CustomerId">Mã nhà cung cấp:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="CustomerId" value="@ViewBag.Result[0].CustomerId" disabled id="CustomerId" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="CustomerName">Tên nhà cung cấp (*):</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input required type="text" value="@ViewBag.Result[0].CustomerName" name="CustomerName" id="CustomerName" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Phone">Số điện thoại:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="Phone" id="Phone" value="@ViewBag.Result[0].Phone" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Email">Email:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="email" name="Email" id="Email" value="@ViewBag.Result[0].Email" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">Khách hàng/Nhà cung cấp</label>
+                                <div class="col-sm-9 col-lg-10 controls">
+                                    <label class="checkbox-inline">
+                                        <input type="checkbox" @{ if (ViewBag.Result[0].isCustomer) { var st = "checked"; @st  ; } } name="isCustomer" id="isCustomer"> Khách hàng
+                                    </label>
+                                    <label class="checkbox-inline">
+                                        <input type="checkbox" @{ if (ViewBag.Result[0].isVender) { var st = "checked"; @st  ; } } name="isVender"> Nhà cung cấp
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
+                                    <input type="button" onclick="onBtnSave(@ViewBag.Result[0].CustomerId);" class="btn btn-primary" value="Xác nhận">
+                                    <button type="button" onclick="window.close();" class="btn">Hủy bỏ</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END Main Content -->
+
+        <footer>
+            <p>2013 © FLATY Admin Template.</p>
+        </footer>
+
+        <a id="btn-scrollup" class="btn btn-circle btn-lg" href="#"><i class="fa fa-chevron-up"></i></a>
+    </div>
+}
+else
+{
+    <div id="main-content">
+        <!-- BEGIN Page Title -->
+        <div class="page-title">
+            <div>
+                <h1><i class="fa fa-plus"></i>Thêm thông tin nhà cung cấp</h1>
+            </div>
+        </div>
+        <!-- END Page Title -->
+        <!-- BEGIN Breadcrumb -->
+        <!-- END Breadcrumb -->
+        <!-- BEGIN Main Content -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-title">
+                        <h3><i class="fa fa-bars"></i> Thông tin</h3>
+                        <div class="box-tool">
+                            <a data-action="collapse" href="#"><i class="fa fa-chevron-up"></i></a>
+                            <a data-action="close" href="#"><i class="fa fa-times"></i></a>
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <form action="#" class="form-horizontal" id="validation-form" method="post">
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="CustomerId">Mã nhà cung cấp:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="CustomerId" value="" disabled id="CustomerId" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="CustomerName">Tên nhà cung cấp (*):</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input required type="text" value="" name="CustomerName" id="CustomerName" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Phone">Số điện thoại:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="Phone" id="Phone" value="" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Email">Email:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="email" name="Email" id="Email" value="" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">nhà cung cấp/Nhà cung cấp</label>
+                                <div class="col-sm-9 col-lg-10 controls">
+                                    <label class="checkbox-inline">
+                                        <input type="checkbox" name="isCustomer" id="isCustomer"> Khách hàng
+                                    </label>
+                                    <label class="checkbox-inline">
+                                        <input type="checkbox" name="isVender"> Nhà cung cấp
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
+                                    <input type="button" onclick="onBtnSave();" class="btn btn-primary" value="Xác nhận">
+                                    <button type="button" onclick="window.close();" class="btn">Hủy bỏ</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END Main Content -->
+
+        <footer>
+            <p>2013 © FLATY Admin Template.</p>
+        </footer>
+
+        <a id="btn-scrollup" class="btn btn-circle btn-lg" href="#"><i class="fa fa-chevron-up"></i></a>
+    </div>
+}
+
+<script>
+    function onBtnSave(id = null) {
+        if (id != null) {
+
+        }
+        var obj = {};
+        $.each($("#validation-form").serializeArray(), function (k, v) {
+            obj[v.name] = v.value;
+        });
+        if (!obj["CustomerId"]) {
+            obj["CustomerId"] = id;
+        }
+        if (obj["isCustomer"] == 'on') {
+            obj["isCustomer"] = true;
+        }
+        else {
+            obj["isCustomer"] = false;
+
+        }
+        if (obj["isVender"] == 'on') {
+            obj["isVender"] = true;
+        }
+        else {
+            obj["isVender"] = false;
+        }
+        if (obj["isCustomer"] == false && obj["isVender"] == false) {
+            obj["isCustomer"] = true;
+        }
+        if (id != null) {
+            $.post(
+                '/Customer/CustomerExecuteSave',
+                {
+                    CommandAction: {
+                        customerList: obj,
+                        EditFlag: "M"
+                    }
+                },
+                function (result) {
+                    if (result.IsSuccess == true) {
+                        callback(result);
+                    }
+                }
+            );
+        }
+        else {
+            $.post(
+                '/Customer/CustomerExecuteSave',
+                {
+                    CommandAction: {
+                        customerList: obj,
+                        EditFlag: "I"
+                    }
+                },
+                function (result) {
+                    if (result.IsSuccess == true) {
+                        callback(result);
+                    }
+                }
+            );
+        }
+    }
+</script>
+

@@ -1,0 +1,45 @@
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\bin\Debug\Login.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\bin\Debug\Login.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\bin\Debug\ConnectDataBase.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\bin\Debug\ConnectDataBase.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\obj\Debug\LoginRepository.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\obj\Debug\LoginRepository.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\obj\Debug\LoginRepository.csproj.CopyComplete
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\obj\Debug\Login.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\obj\Debug\Login.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\bin\Debug\User.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Login\bin\Debug\User.pdb
+D:\website\QuanLyBanHang\Login\bin\Debug\Login.dll
+D:\website\QuanLyBanHang\Login\bin\Debug\Login.pdb
+D:\website\QuanLyBanHang\Login\bin\Debug\ConnectDataBase.dll
+D:\website\QuanLyBanHang\Login\bin\Debug\User.dll
+D:\website\QuanLyBanHang\Login\bin\Debug\ConnectDataBase.pdb
+D:\website\QuanLyBanHang\Login\bin\Debug\User.pdb
+D:\website\QuanLyBanHang\Login\obj\Debug\LoginRepository.csprojAssemblyReference.cache
+D:\website\QuanLyBanHang\Login\obj\Debug\LoginRepository.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\Login\obj\Debug\LoginRepository.csproj.CopyComplete
+D:\website\QuanLyBanHang\Login\obj\Debug\Login.dll
+D:\website\QuanLyBanHang\Login\obj\Debug\Login.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\Login\bin\Debug\Login.dll
+D:\__dhsp\___web\WebQuanLyBanHang\Login\bin\Debug\Login.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\Login\bin\Debug\ConnectDataBase.dll
+D:\__dhsp\___web\WebQuanLyBanHang\Login\bin\Debug\User.dll
+D:\__dhsp\___web\WebQuanLyBanHang\Login\bin\Debug\ConnectDataBase.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\Login\bin\Debug\User.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\Login\obj\Debug\LoginRepository.csprojAssemblyReference.cache
+D:\__dhsp\___web\WebQuanLyBanHang\Login\obj\Debug\LoginRepository.csproj.CoreCompileInputs.cache
+D:\__dhsp\___web\WebQuanLyBanHang\Login\obj\Debug\LoginRepository.csproj.CopyComplete
+D:\__dhsp\___web\WebQuanLyBanHang\Login\obj\Debug\Login.dll
+D:\__dhsp\___web\WebQuanLyBanHang\Login\obj\Debug\Login.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Login\bin\Debug\Login.dll
+D:\data\CN_Web\WebQuanLyBanHang\Login\bin\Debug\Login.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Login\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\Login\bin\Debug\User.dll
+D:\data\CN_Web\WebQuanLyBanHang\Login\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Login\bin\Debug\User.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Login\obj\Debug\LoginRepository.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\Login\obj\Debug\Login.dll
+D:\data\CN_Web\WebQuanLyBanHang\Login\obj\Debug\Login.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Login\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\Login\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\Login\bin\Debug\Microsoft.Owin.xml

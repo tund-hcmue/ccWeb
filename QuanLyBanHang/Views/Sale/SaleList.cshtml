@@ -1,0 +1,206 @@
+﻿
+@{
+    ViewBag.Title = "SaleList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="main-content">
+    <!-- BEGIN Page Title -->
+    
+    <!-- END Page Title -->
+    <!-- BEGIN Breadcrumb -->
+    <div id="breadcrumbs">
+        <ul class="breadcrumb">
+            <li>
+                <i class="fa fa-home"></i>
+                <a href="/">Trang chủ</a>
+                <span class="divider"><i class="fa fa-angle-right"></i></span>
+            </li>
+            <li class="active">Đơn hàng</li>
+        </ul>
+    </div>
+    <!-- END Breadcrumb -->
+    <!-- BEGIN Main Content -->
+    <div class="row">
+        <div class="col-md-12">
+            <div class="box">
+                <div class="box-title">
+                    <h3><i class="fa fa-table"></i> ĐƠN HÀNG</h3>
+                    <div class="box-tool">
+                        <a data-action="collapse" href="#"><i class="fa fa-chevron-up"></i></a>
+                        <a data-action="close" href="#"><i class="fa fa-times"></i></a>
+                    </div>
+                </div>
+                <div class="box-content">
+                    <div class="btn-toolbar pull-right clearfix">
+                        <div class="btn-group">
+                            <a class="btn btn-circle show-tooltip" onclick="onBtnAdd();" title="Thêm" href="#"><i class="fa fa-plus"></i></a>
+                            <a class="btn btn-circle show-tooltip" title="Edit selected" href="#"><i class="fa fa-edit"></i></a>
+                        </div>
+                        <div class="btn-group">
+                            <a class="btn btn-circle show-tooltip" onclick="SalePrintPDF();" title="In PDF" href="#"><i class="fa fa-file-pdf-o"></i></a>
+                            <a class="btn btn-circle show-tooltip" title="Export to PDF" href="#"><i class="fa fa-file-text-o"></i></a>
+                            <a class="btn btn-circle show-tooltip" title="Export to Exel" href="#"><i class="fa fa-table"></i></a>
+                        </div>
+                        <div class="btn-group">
+                            <a class="btn btn-circle show-tooltip" title="Refresh" href="#"><i class="fa fa-repeat"></i></a>
+                        </div>
+                    </div>
+                    <br /><br />
+                    <div class="clearfix"></div>
+                    <div class="table-responsive" style="border:0">
+                        <table class="table table-advance" id="table1">
+                            <thead>
+                                <tr>
+                                    <th>Mã</th>
+                                    <th>Ngày</th>
+                                    <th>Khách hàng</th>
+                                    <th>Nhân viên bán hàng</th>
+                                    <th>Số lượng</th>
+                                    <th>Tổng tiền</th>
+                                    <th>Trạng thái</th>
+                                    <th>Ghi chú</th>
+                                    <th>Hành động</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                                @foreach (var item in this.ViewBag.Result)
+                                {
+                                    
+                                    <tr class="table-flag-blue">
+                                        <td>@item.SaleId</td>
+                                        <td>@Convert.ToDateTime(item.SaleDate).ToString("dd/MM/yyyy hh:mm:ss")</td>
+                                        <td>
+                                            <a href="#" onclick="popupCustomerInput(@item.CustomerId);">@item.CustomerName</a>
+                                        </td>
+                                        <td>
+                                            <a href="#" onclick="popupEmployeeInput(@item.EmployeeId);">@item.EmployeeName</a>
+                                        </td>
+                                        <td>@Convert.ToInt32(item.Qty).ToString("#,##0")</td>
+                                        <td>@Convert.ToInt32(item.Total).ToString("#,##0")</td>
+                                        <td>@item.StatusShow</td>
+                                        <td>@item.Note</td>
+                                        <td>
+                                            <a title="Xem" href="#" onclick="btnView(@item.SaleId);" type="button" class="btn btn-default btn-sm"><span class="fa fa-eye"></span></a>
+                                            <a title="Sửa" href="#" onclick="btnEdit(@item.SaleId);" type="button" class="btn btn-default btn-sm"><span class="fa fa-pencil-square-o"></span></a>
+                                            <a title="Xóa" href="#" onclick="btnDelete(@item.SaleId); return false;" type="button" class="btn btn-gray btn-sm"><span class="fa fa-trash-o"></span></a>
+                                            <a title="Hoàn thành" href="#" onclick="changeStatus(@item.SaleId); return false;" type="button" class="btn btn-primary btn-sm"><span class="fa fa-check-square-o"></span></a>
+                                        </td>
+                                    </tr>
+                                }
+
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END Main Content -->
+
+    <footer>
+        <p>2013 © FLATY Admin Template.</p>
+    </footer>
+
+    <a id="btn-scrollup" class="btn btn-circle btn-lg" href="#"><i class="fa fa-chevron-up"></i></a>
+</div>
+<script>
+    function changeStatus(id) {
+        swal({
+            title: 'Bạn có chắc chắn đổi trạng thái của đơn #'+id+' ?',
+            text: "Sau khi đổi không thể quay lại trạng thái trước!",
+            type: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Xác nhận!',
+            cancelButtonText: 'Hủy bỏ'
+        }).then((result) => {
+            if (result.value) {
+                $.post(
+                    "/Sale/SaleChangeStatus",
+                    {
+                        CommandAction: {
+                            SaleId: id
+                        }
+                    }, function (result) {
+                        swal({
+                            title: 'THÔNG BÁO!',
+                            text: result.Message,
+                            type: result.IsSuccess == true ? 'success' : 'error',
+                            showCancelButton: false,
+                            confirmButtonColor: '#3085d6',
+                            confirmButtonText: 'Xác nhận!'
+                        }).then((result) => {
+                            window.location.reload();
+                        })
+                    }
+                );
+            }
+        });
+    }
+
+    function btnView(id) {
+        this.openPopup({
+            url: '/Sale/SaleView?CommandAction.SaleId=' + id
+        });
+    }
+    function btnEdit(id) {
+        this.openPopup({
+            url: '/Sale/SaleInput?CommandAction.SaleId=' + id + "&CommandAction.EditFlag=M"
+        });
+    }
+    function popupCustomerInput(id) {
+        this.openPopup({
+            url: '/Customer/CustomerInput?CommandAction.CustomerId=' + id,
+            parameter: "width=800,height=800,top=0"
+        });
+    }
+    function popupEmployeeInput(id) {
+        openPopup({
+            url: "/Employee/EmployeeInput?CommandAction.EmployeeId=" + id,
+            parameter: "width=800,height=800,top=0"
+        });
+    }
+    function onBtnAdd() {
+        this.openPopup({
+            url: '/Sale/SaleInput'
+        });
+    }
+
+    function btnDelete(id) {
+        swal({
+            title: 'Bạn có chắc chắn muốn xóa, #' + id + ' ?',
+            text: "Sau khi xóa không thể khôi phục lại dữ liệu!",
+            type: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Xác nhận xóa!',
+            cancelButtonText: 'Hủy bỏ'
+        }).then((result) => {
+            if (result.value) {
+                $.post(
+                    "/Sale/SaleExecuteDeleteById",
+                    {
+                        CommandAction: {
+                            SaleId: id
+                        }
+                    }, function (result) {
+                        swal({
+                            title: 'THÔNG BÁO!',
+                            text: result.Message,
+                            type: result.IsSuccess == true ? 'success' : 'error',
+                            showCancelButton: false,
+                            confirmButtonColor: '#3085d6',
+                            confirmButtonText: 'Xác nhận!'
+                        }).then((result) => {
+                            window.location.reload();
+                        })
+                    }
+                );
+            }
+        });
+    }
+</script>

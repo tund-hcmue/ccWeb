@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_LayoutInput.cshtml";
+
+}
+
+
+<div class="container">
+    <div class="row">
+
+        @foreach (var item in this.ViewBag.Result)
+        {
+            <div class="col-md-3" style="padding-bottom:20px;">
+                <table style="width:100%">
+                    <tr>
+                        <th class="text-center">@item.ProductName</th>
+                    </tr>
+                    <tr>
+                        <td><svg id="barcode_@item.ProductId"></svg></td>
+                    </tr>
+                </table>
+            </div>
+        }
+
+    </div>
+</div>
+            
+
+
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: left;
+        }
+
+        table#t01 {
+            width: 100%;
+            background-color: #f1f1c1;
+        }
+    </style>
+
+
+<script>
+    PrintBarCode();
+</script>

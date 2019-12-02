@@ -1,0 +1,261 @@
+﻿
+@{
+    ViewBag.Title = "SaleInput";
+    Layout = "~/Views/Shared/_LayoutInput.cshtml";
+}
+@if(this.ViewBag.Result.Count == 1)
+{
+    <div id="main-content">
+        <!-- BEGIN Page Title -->
+        <div class="page-title">
+            <div>
+                <h1><i class="fa fa-wrench"></i>Cập nhật thông tin đơn hàng</h1>
+            </div>
+        </div>
+        <!-- END Page Title -->
+        <!-- BEGIN Breadcrumb -->
+        <!-- END Breadcrumb -->
+        <!-- BEGIN Main Content -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-title">
+                        <h3><i class="fa fa-bars"></i> Thông tin</h3>
+                        <div class="box-tool">
+                            <a data-action="collapse" href="#"><i class="fa fa-chevron-up"></i></a>
+                            <a data-action="close" href="#"><i class="fa fa-times"></i></a>
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <form action="#" class="form-horizontal" id="validation-form" method="post">
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="SaleId">Mã:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="SaleId" value="@this.ViewBag.Result[0].SaleId" disabled id="SaleId" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">Tên khách hàng:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <div class="input-group">
+                                        <span class="input-group-addon" id="CustomerId_span">@this.ViewBag.Result[0].CustomerId</span>
+                                        <input type="hidden" id="CustomerId" name="CustomerId" value="@this.ViewBag.Result[0].CustomerId" />
+                                        <input type="text" name="CustomerName" id="CustomerName" value="@this.ViewBag.Result[0].CustomerName" placeholder="Search here..." class="form-control">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-yellow" onclick="btnSearchCustomer();" type="button">Tìm kiếm!</button>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">Tên nhân viên:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <div class="input-group">
+                                        <span class="input-group-addon" id="EmployeeId_span">@this.ViewBag.Result[0].EmployeeId</span>
+                                        <input type="hidden" id="EmployeeId" name="EmployeeId" value="@this.ViewBag.Result[0].EmployeeId" />
+                                        <input type="text" name="EmployeeName" id="EmployeeName" value="@this.ViewBag.Result[0].EmployeeName" placeholder="Search here..." class="form-control">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-yellow" onclick="btnSearchEmployee();" type="button">Tìm kiếm!</button>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">Ngày</label>
+                                <div class="col-sm-5 col-lg-3 controls">
+                                    <div class="input-group date date-picker" data-date="@Convert.ToDateTime(this.ViewBag.Result[0].SaleDate).ToString("yyyy-MM-dd")" data-date-format="dd-mm-yyyy" data-date-viewmode="years">
+                                        <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                                        <input name="SaleDate" class="form-control date-picker" size="16" type="text" value="@Convert.ToDateTime(this.ViewBag.Result[0].SaleDate).ToString("yyyy-MM-dd")">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="textarea1" class="col-xs-3 col-lg-2 control-label">Ghi chú</label>
+                                <div class="col-sm-9 col-lg-10 controls">
+                                    <textarea name="Note" id="Note" rows="5" class="form-control">@this.ViewBag.Result[0].Note</textarea>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
+                                    <input type="button" onclick="onBtnSave(@this.ViewBag.Result[0].SaleId);" class="btn btn-primary" value="Xác nhận">
+                                    <button type="button" onclick="window.close();" class="btn">Hủy bỏ</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END Main Content -->
+
+        <footer>
+            <p>2013 © FLATY Admin Template.</p>
+        </footer>
+
+        <a id="btn-scrollup" class="btn btn-circle btn-lg" href="#"><i class="fa fa-chevron-up"></i></a>
+    </div>
+}
+else
+{
+    <div id="main-content">
+        <!-- BEGIN Page Title -->
+        <div class="page-title">
+            <div>
+                <h1><i class="fa fa-wrench"></i>Thêm đơn hàng mới</h1>
+            </div>
+        </div>
+        <!-- END Page Title -->
+        <!-- BEGIN Breadcrumb -->
+        <!-- END Breadcrumb -->
+        <!-- BEGIN Main Content -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-title">
+                        <h3><i class="fa fa-bars"></i> Thông tin</h3>
+                        <div class="box-tool">
+                            <a data-action="collapse" href="#"><i class="fa fa-chevron-up"></i></a>
+                            <a data-action="close" href="#"><i class="fa fa-times"></i></a>
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <form action="#" class="form-horizontal" id="validation-form" method="post">
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="SaleId">Mã:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="SaleId" value="" disabled id="SaleId" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">Tên khách hàng:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <div class="input-group">
+                                        <span class="input-group-addon" id="CustomerId_span">0</span>
+                                        <input type="hidden" id="CustomerId" name="CustomerId" value="" />
+                                        <input type="text" name="CustomerName" id="CustomerName" value="" placeholder="Tên nhân viên" class="form-control">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-yellow" onclick="btnSearchCustomer();" type="button">Tìm kiếm!</button>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">Tên nhân viên:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <div class="input-group">
+                                        <span class="input-group-addon" id="EmployeeId_span">0</span>
+                                        <input type="hidden" id="EmployeeId" name="EmployeeId" value="" />
+                                        <input type="text" name="EmployeeName" id="EmployeeName" value="" placeholder="Tên nhân viên" class="form-control">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-yellow" onclick="btnSearchEmployee();" type="button">Tìm kiếm!</button>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">Ngày</label>
+                                <div class="col-sm-5 col-lg-3 controls">
+                                    <div class="input-group date date-picker" data-date="" data-date-format="dd-mm-yyyy" data-date-viewmode="years">
+                                        <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                                        <input name="SaleDate" class="form-control date-picker" size="16" type="text" value="@DateTime.Now.ToString("yyyy-MM-dd")">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="textarea1" class="col-xs-3 col-lg-2 control-label">Ghi chú</label>
+                                <div class="col-sm-9 col-lg-10 controls">
+                                    <textarea name="Note" id="Note" rows="5" class="form-control"></textarea>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
+                                    <input type="button" onclick="onBtnSave(0);" class="btn btn-primary" value="Xác nhận">
+                                    <button type="button" onclick="window.close();" class="btn">Hủy bỏ</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END Main Content -->
+
+        <footer>
+            <p>2013 © FLATY Admin Template.</p>
+        </footer>
+
+        <a id="btn-scrollup" class="btn btn-circle btn-lg" href="#"><i class="fa fa-chevron-up"></i></a>
+    </div>
+}
+
+
+<script>
+    function btnSearchCustomer() {
+        this.openPopup({
+            url: '/Customer/CustomerList',
+            param: {},
+            isPopup: true
+        });
+    }
+    function btnSearchEmployee() {
+        this.openPopup({
+            url: '/Employee/EmployeeList',
+            param: {},
+            isPopup: true
+        });
+    }
+    function AddDataEmployee(id, name) {
+        $("#EmployeeId_span").html(id);
+        $("#EmployeeId").val(id);
+        $("#EmployeeName").val(name);
+    }
+    function onBtnSave(id) {
+        var data = $("#validation-form").serializeArray();
+        var ar = new Array();
+        $.each(data, function (k, v) {
+            ar[v.name] = v.value;
+        });
+        if (id != 0) {
+            $.post(
+                '/Sale/SaleExecuteSave',
+                {
+                    CommandAction: {
+                        Item: {
+                            SaleId: id,
+                            CustomerId: ar.CustomerId,
+                            EmployeeId: ar.EmployeeId,
+                            SaleDate: ar.SaleDate,
+                            Note : ar.Note
+                        },
+                        EditFlag: "M"
+                    }
+                },
+                function (result) {
+                    callback(result);
+                }
+            );
+        }
+        else {
+            $.post(
+                '/Sale/SaleExecuteSave',
+                {
+                    CommandAction: {
+                        Item: {
+                            CustomerId: ar.CustomerId,
+                            EmployeeId: ar.EmployeeId,
+                            SaleDate: ar.SaleDate
+                        }
+                    }
+                },
+                function (result) {
+                    callback(result);
+                }
+            );
+        }
+    }
+    function AddData(id, name) {
+        $("#CustomerId_span").html(id);
+        $("#CustomerId").val(id);
+        $("#CustomerName").val(name);
+    }
+</script>

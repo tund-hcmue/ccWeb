@@ -1,0 +1,246 @@
+﻿
+@{
+    ViewBag.Title = "ProductInput";
+    Layout = "~/Views/Shared/_LayoutInput.cshtml";
+}
+@if (this.ViewBag.Result.Count > 0)
+{
+    <div id="main-content">
+        <!-- BEGIN Page Title -->
+        <div class="page-title">
+            <div>
+                <h1><i class="fa fa-wrench"></i>Cập nhật thông tin sản phẩm</h1>
+            </div>
+        </div>
+        <!-- END Page Title -->
+        <!-- BEGIN Breadcrumb -->
+        <!-- END Breadcrumb -->
+        <!-- BEGIN Main Content -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-title">
+                        <h3><i class="fa fa-bars"></i> Thông tin</h3>
+                        <div class="box-tool">
+                            <a data-action="collapse" href="#"><i class="fa fa-chevron-up"></i></a>
+                            <a data-action="close" href="#"><i class="fa fa-times"></i></a>
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <form action="#" class="form-horizontal" id="validation-form" method="post">
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="ProductId">Mã sản phẩm:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="ProductId" value="@this.ViewBag.Result[0].ProductId" disabled id="ProductId" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="ProductName">Tên sản phẩm (*):</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input required type="text" value="@this.ViewBag.Result[0].ProductName" name="ProductName" id="ProductName" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">Nhóm hàng hóa:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <div class="input-group">
+                                        <span class="input-group-addon" id="ProductGroupId_span">@this.ViewBag.Result[0].ProductGroupId</span>
+                                        <input type="hidden" id="ProductGroupId" name="ProductGroupId"/>
+                                        <input type="text" id="ProductGroupName" value="@this.ViewBag.Result[0].ProductGroupName" placeholder="Tên nhóm hàng hóa" class="form-control">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-yellow" onclick="btnSearchProductGroup();"  type="button">Tìm kiếm!</button>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Phone">Giá:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="number" name="Price" id="Price" value="@this.ViewBag.Result[0].Price" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Email">Số lượng:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="number" name="Qty" id="Qty" value="@this.ViewBag.Result[0].Qty" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Email">Mã vạch:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="Barcode" id="Barcode" value="@this.ViewBag.Result[0].Barcode" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
+                                    <input type="button" onclick="onBtnSave(@this.ViewBag.Result[0].ProductId);" class="btn btn-primary" value="Xác nhận">
+                                    <button type="button" onclick="window.close();" class="btn">Hủy bỏ</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END Main Content -->
+
+        <footer>
+            <p>2013 © FLATY Admin Template.</p>
+        </footer>
+
+        <a id="btn-scrollup" class="btn btn-circle btn-lg" href="#"><i class="fa fa-chevron-up"></i></a>
+    </div>
+}
+else
+{
+    <div id="main-content">
+        <!-- BEGIN Page Title -->
+        <div class="page-title">
+            <div>
+                <h1><i class="fa fa-plus"></i>Thêm thông tin sản phẩm</h1>
+            </div>
+        </div>
+        <!-- END Page Title -->
+        <!-- BEGIN Breadcrumb -->
+        <!-- END Breadcrumb -->
+        <!-- BEGIN Main Content -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-title">
+                        <h3><i class="fa fa-bars"></i> Thông tin</h3>
+                        <div class="box-tool">
+                            <a data-action="collapse" href="#"><i class="fa fa-chevron-up"></i></a>
+                            <a data-action="close" href="#"><i class="fa fa-times"></i></a>
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <form action="#" class="form-horizontal" id="validation-form" method="post">
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="ProductId">Mã sản phẩm:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="ProductId" value="" disabled id="ProductId" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="ProductName">Tên sản phẩm (*):</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input required type="text" value="" name="ProductName" id="ProductName" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label">Nhóm hàng hóa:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <div class="input-group">
+                                        <span class="input-group-addon" id="ProductGroupId_span">0</span>
+                                        <input type="hidden" id="ProductGroupId" name="ProductGroupId" />
+                                        <input type="text" id="ProductGroupName" placeholder="Tên nhóm hàng hóa" class="form-control">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-yellow" onclick="btnSearchProductGroup();" type="button">Tìm kiếm!</button>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Phone">Giá:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="number" name="Price" id="Price" value="0" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Qty">Số lượng:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="number" name="Qty" id="Qty" value="0" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-sm-3 col-lg-2 control-label" for="Barcode">Mã vạch:</label>
+                                <div class="col-sm-6 col-lg-4 controls">
+                                    <input type="text" name="Barcode" id="Barcode" value="" class="form-control" data-rule-required="true" data-rule-minlength="3" />
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2">
+                                    <input type="button" onclick="onBtnSave();" class="btn btn-primary" value="Xác nhận">
+                                    <button type="button" onclick="window.close();" class="btn">Hủy bỏ</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END Main Content -->
+
+        <footer>
+            <p>2013 © FLATY Admin Template.</p>
+        </footer>
+
+        <a id="btn-scrollup" class="btn btn-circle btn-lg" href="#"><i class="fa fa-chevron-up"></i></a>
+    </div>
+}
+<script>
+    function AddData(id,name) {
+        $("#ProductGroupId_span").html(id);
+        $("#ProductGroupId").val(id);
+        $("#ProductGroupName").val(name);
+    }
+    function btnSearchProductGroup() {
+        this.openPopup({
+            url : '/Product/ProductGroupList'
+        });
+    }
+    function onBtnSave(id = null) {
+        if (id != null) {
+
+        }
+        var obj = {};
+        $.each($("#validation-form").serializeArray(), function (k, v) {
+            obj[v.name] = v.value;
+            if (v.name == 'select')
+                obj['ProductGroupId'] = v.value;
+        });
+        if (!obj["ProductId"]) {
+            obj["ProductId"] = id;
+        }
+        if (id != null) {
+            $.post(
+                '/Product/ProductExecuteSave',
+                {
+                    CommandAction: {
+                        Item: obj,
+                        EditFlag: "M"
+                    }
+                },
+                function (result) {
+                    debugger;
+                    if (result.IsSuccess) {
+                        callback(result);
+                    }
+                    else {
+                        noti(result.Message, 'error');
+                    }
+                }
+            );
+        }
+        else {
+            $.post(
+                '/Product/ProductExecuteSave',
+                {
+                    CommandAction: {
+                        Item: obj,
+                        EditFlag: "I"
+                    }
+                },
+                function (result) {
+                    if (result.IsSuccess == true) {
+                        callback(result);
+                    }
+                }
+            );
+        }
+    }
+</script>
+

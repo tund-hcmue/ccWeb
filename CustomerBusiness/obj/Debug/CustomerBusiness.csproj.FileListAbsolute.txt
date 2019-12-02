@@ -1,0 +1,53 @@
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\bin\Debug\CustomerBusiness.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\bin\Debug\CustomerBusiness.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\bin\Debug\ConnectDataBase.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\bin\Debug\Customer.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\bin\Debug\CustomerRepository.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\bin\Debug\ConnectDataBase.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\bin\Debug\CustomerRepository.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\bin\Debug\Customer.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csproj.CopyComplete
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.pdb
+D:\website\QuanLyBanHang\CustomerBusiness\bin\Debug\CustomerBusiness.dll
+D:\website\QuanLyBanHang\CustomerBusiness\bin\Debug\CustomerBusiness.pdb
+D:\website\QuanLyBanHang\CustomerBusiness\bin\Debug\ConnectDataBase.dll
+D:\website\QuanLyBanHang\CustomerBusiness\bin\Debug\Customer.dll
+D:\website\QuanLyBanHang\CustomerBusiness\bin\Debug\CustomerRepository.dll
+D:\website\QuanLyBanHang\CustomerBusiness\bin\Debug\ConnectDataBase.pdb
+D:\website\QuanLyBanHang\CustomerBusiness\bin\Debug\CustomerRepository.pdb
+D:\website\QuanLyBanHang\CustomerBusiness\bin\Debug\Customer.pdb
+D:\website\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csprojAssemblyReference.cache
+D:\website\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csproj.CopyComplete
+D:\website\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.dll
+D:\website\QuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\CustomerBusiness.dll
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\CustomerBusiness.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\ConnectDataBase.dll
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\Customer.dll
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\CustomerRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\ConnectDataBase.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\CustomerRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\Customer.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csprojAssemblyReference.cache
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csproj.CoreCompileInputs.cache
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csproj.CopyComplete
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.dll
+D:\__dhsp\___web\WebQuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\CustomerBusiness.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\CustomerBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\Customer.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\CustomerRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\CustomerRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\Customer.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\obj\Debug\CustomerBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\CustomerBusiness\bin\Debug\Microsoft.Owin.xml

@@ -1,0 +1,679 @@
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\ApplicationInsights.config
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll.config
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe.config
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.rsp
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe.config
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.rsp
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Console.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe.config
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.rsp
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\WebGrease.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.xml
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Customer.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Customer.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Employee.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Employee.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Login.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Login.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\ApplicationInsights.config
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll.config
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe.config
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.rsp
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe.config
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.rsp
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.AppContext.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Collections.Immutable.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Console.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.Process.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Compression.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Pipes.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Reflection.Metadata.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.AccessControl.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Claims.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Principal.Windows.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Threading.Thread.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.ValueTuple.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe.config
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.rsp
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe.config
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Customer.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Employee.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Login.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.Web.Infrastructure.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\WebGrease.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Customer.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Employee.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Login.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.pdb
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.xml
+E:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+E:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dll
+E:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\ApplicationInsights.config
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll.config
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe.config
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.rsp
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe.config
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.rsp
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.AppContext.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Console.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.Process.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Compression.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Pipes.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.AccessControl.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Claims.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Principal.Windows.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Threading.Thread.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.ValueTuple.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe.config
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.rsp
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Customer.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Employee.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Login.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\WebGrease.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Customer.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Employee.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Login.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.xml
+D:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+D:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Product.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Sale.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\User.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\VenderRepository.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Product.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\Sale.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\User.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\VenderRepository.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\ProductRepository.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\ProductRepository.pdb
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\ProductBusiness.dll
+D:\website\QuanLyBanHang\QuanLyBanHang\bin\ProductBusiness.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\ApplicationInsights.config
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll.config
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe.config
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.rsp
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe.config
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.rsp
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.AppContext.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Console.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.Process.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Compression.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Pipes.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.AccessControl.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Claims.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Principal.Windows.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Threading.Thread.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.ValueTuple.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe.config
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.rsp
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Customer.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Employee.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Login.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Product.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\ProductBusiness.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\ProductRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Sale.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\SaleBusiness.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\SaleRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\User.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\VenderRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\WebGrease.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Customer.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Employee.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Login.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\ProductBusiness.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\ProductRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Product.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\SaleBusiness.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\SaleRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Sale.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\User.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\VenderRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.xml
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dll
+D:\__dhsp\___web\WebQuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\ApplicationInsights.config
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll.config
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe.config
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.rsp
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe.config
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.rsp
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.AppContext.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Console.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.Process.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Compression.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.Pipes.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.AccessControl.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Claims.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Security.Principal.Windows.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Threading.Thread.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.ValueTuple.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe.config
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.rsp
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Customer.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Employee.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Login.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Agent.Intercept.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Product.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\ProductBusiness.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\ProductRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Sale.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\SaleBusiness.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\SaleRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\User.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\VenderRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\WebGrease.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\CustomerBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\CustomerRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Customer.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\EmployeeExecuteSaveBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\EmployeeRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Employee.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Login.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\ProductBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\ProductRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Product.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\SaleBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\SaleRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Sale.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\User.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\VenderRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.Formatting.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Web.Http.WebHost.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.ApplicationInsights.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.DependencyCollector.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.WindowsServer.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AI.Web.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Facebook.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Facebook.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Authentication.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Authentication.Google.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Http.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.ObjectPool.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.Options.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.Primitives.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.WebEncoders.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Net.Http.Headers.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Win32.Primitives.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.AppContext.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Buffers.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Console.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Diagnostics.DiagnosticSource.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Globalization.Calendars.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.IO.Compression.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.IO.Compression.ZipFile.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.IO.FileSystem.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.IO.FileSystem.Primitives.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Net.Http.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Net.Sockets.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Security.Cryptography.Algorithms.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Security.Cryptography.Encoding.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Security.Cryptography.Primitives.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Security.Cryptography.X509Certificates.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Text.Encodings.Web.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Xml.ReaderWriter.dll
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Authentication.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Authentication.Google.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Authentication.OAuth.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Http.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.ObjectPool.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.Options.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.Primitives.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Extensions.WebEncoders.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\Microsoft.Net.Http.Headers.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Diagnostics.DiagnosticSource.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\data\CN_Web\WebQuanLyBanHang\QuanLyBanHang\bin\System.Text.Encodings.Web.xml

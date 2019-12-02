@@ -1,0 +1,37 @@
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Employee\bin\Debug\Employee.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Employee\bin\Debug\Employee.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Employee\bin\Debug\ConnectDataBase.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Employee\bin\Debug\ConnectDataBase.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Employee\obj\Debug\Employee.csproj.CopyComplete
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Employee\obj\Debug\Employee.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Employee\obj\Debug\Employee.pdb
+D:\website\QuanLyBanHang\Employee\bin\Debug\Employee.dll
+D:\website\QuanLyBanHang\Employee\bin\Debug\Employee.pdb
+D:\website\QuanLyBanHang\Employee\bin\Debug\ConnectDataBase.dll
+D:\website\QuanLyBanHang\Employee\bin\Debug\ConnectDataBase.pdb
+D:\website\QuanLyBanHang\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+D:\website\QuanLyBanHang\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\Employee\obj\Debug\Employee.csproj.CopyComplete
+D:\website\QuanLyBanHang\Employee\obj\Debug\Employee.dll
+D:\website\QuanLyBanHang\Employee\obj\Debug\Employee.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\Employee\bin\Debug\Employee.dll
+D:\__dhsp\___web\WebQuanLyBanHang\Employee\bin\Debug\Employee.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\Employee\bin\Debug\ConnectDataBase.dll
+D:\__dhsp\___web\WebQuanLyBanHang\Employee\bin\Debug\ConnectDataBase.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+D:\__dhsp\___web\WebQuanLyBanHang\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\__dhsp\___web\WebQuanLyBanHang\Employee\obj\Debug\Employee.csproj.CopyComplete
+D:\__dhsp\___web\WebQuanLyBanHang\Employee\obj\Debug\Employee.dll
+D:\__dhsp\___web\WebQuanLyBanHang\Employee\obj\Debug\Employee.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\Employee.dll
+D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\Employee.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\Employee\obj\Debug\Employee.dll
+D:\data\CN_Web\WebQuanLyBanHang\Employee\obj\Debug\Employee.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\Microsoft.Owin.xml

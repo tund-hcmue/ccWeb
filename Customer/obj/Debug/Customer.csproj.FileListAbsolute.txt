@@ -1,0 +1,25 @@
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Customer\bin\Debug\Customer.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Customer\bin\Debug\Customer.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Customer\obj\Debug\Customer.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\Customer\obj\Debug\Customer.pdb
+D:\website\QuanLyBanHang\Customer\bin\Debug\Customer.dll
+D:\website\QuanLyBanHang\Customer\bin\Debug\Customer.pdb
+D:\website\QuanLyBanHang\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\Customer\obj\Debug\Customer.dll
+D:\website\QuanLyBanHang\Customer\obj\Debug\Customer.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\Customer\bin\Debug\Customer.dll
+D:\__dhsp\___web\WebQuanLyBanHang\Customer\bin\Debug\Customer.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\Customer\obj\Debug\Customer.csprojAssemblyReference.cache
+D:\__dhsp\___web\WebQuanLyBanHang\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+D:\__dhsp\___web\WebQuanLyBanHang\Customer\obj\Debug\Customer.dll
+D:\__dhsp\___web\WebQuanLyBanHang\Customer\obj\Debug\Customer.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Customer\bin\Debug\Customer.dll
+D:\data\CN_Web\WebQuanLyBanHang\Customer\bin\Debug\Customer.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\Customer\obj\Debug\Customer.dll
+D:\data\CN_Web\WebQuanLyBanHang\Customer\obj\Debug\Customer.pdb
+D:\data\CN_Web\WebQuanLyBanHang\Customer\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\Customer\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\Customer\bin\Debug\Microsoft.Owin.xml

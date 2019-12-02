@@ -1,0 +1,91 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>@ViewBag.Title</title>
+    <meta name="description" content="">
+    <meta name="google-signin-client_id" content="187428113232-gad3r2av76i3gucv45m97jqvrvak3ilf.apps.googleusercontent.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="stylesheet" href="~/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/font-awesome/css/font-awesome.min.css">
+    <link href="~/assets/data-tables/bootstrap3/dataTables.bootstrap.css" rel="stylesheet" />
+    <!--page specific css styles-->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700&amp;subset=vietnamese" rel="stylesheet">    <!--flaty css styles-->
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/Content/flaty.css">
+    <link rel="stylesheet" href="~/Content/flaty-responsive.css">
+
+    <link rel="shortcut icon" href="~/img/favicon.html">
+    <link href="~/assets/noti/css/alertify.rtl.min.css" rel="stylesheet" />
+    <link href="~/assets/noti/css/themes/semantic.rtl.min.css" rel="stylesheet" />
+    <script src="~/assets/jquery/jquery-2.1.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/bootstrap-timepicker/compiled/timepicker.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/bootstrap-datepicker/css/datepicker.css" />
+    <script src="~/Scripts/JsBarcode.all.min.js"></script>
+    <script src="~/Scripts/function.js"></script>
+    @{
+        if (this.Session["Email"] == null)
+        {
+            <script>isLogin();</script>
+        }
+    }
+    <script>
+        $(document).ready(function () {
+            $(document).ajaxStart(function () {
+                $("#loading").show();
+                $("#content-body").css({ opacity: 0.2 });
+
+
+            });
+            $(document).ajaxStop(function () {
+                $("#loading").hide();
+                $("#content-body").css({ opacity: 1 });
+
+
+            });
+        });
+    </script>
+</head>
+<body style="height: 100%;margin:0;padding:0;">
+    <script>
+
+        var ViewBag = @Html.Raw(Json.Encode(this.ViewBag));
+    </script>
+    <div style="text-align:center;"><img id="loading" src="~/img/loading.gif"></div>
+
+    <div id="content-body">
+        @RenderBody()
+    </div>
+    <!-- END Container -->
+    <!--basic scripts-->
+
+    <script>window.jQuery || document.write('<script src="assets/jquery/jquery-2.1.1.min.js"><\/script>')</script>
+    <script src="~/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/assets/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+    <script src="~/assets/jquery-cookie/jquery.cookie.js"></script>
+
+    <!--page specific plugin scripts-->
+    <script src="~/assets/flot/jquery.flot.js"></script>
+    <script src="~/assets/flot/jquery.flot.resize.js"></script>
+    <script src="~/assets/flot/jquery.flot.pie.js"></script>
+    <script src="~/assets/flot/jquery.flot.stack.js"></script>
+    <script src="~/assets/flot/jquery.flot.crosshair.js"></script>
+    <script src="~/assets/flot/jquery.flot.tooltip.min.js"></script>
+    <script src="~/assets/sparkline/jquery.sparkline.min.js"></script>
+    <script src="~/assets/data-tables/jquery.dataTables.js"></script>
+    <script src="~/assets/data-tables/bootstrap3/dataTables.bootstrap.js"></script>
+    <!--flaty scripts-->
+    <script src="~/Scripts/flaty.js"></script>
+    <script src="~/Scripts/flaty-demo-codes.js"></script>
+    <script src="~/Scripts/sweetalert.all.js"></script>
+    <script src="~/Scripts/function.js"></script>
+    <script src="~/assets/noti/alertify.min.js"></script>
+    <script src="~/assets/noti/notify.min.js"></script>
+    <script src="https://apis.google.com/js/platform.js?onLoad=onLoad" async defer></script>
+
+    <script type="text/javascript" src="/assets/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+</body>
+</html>

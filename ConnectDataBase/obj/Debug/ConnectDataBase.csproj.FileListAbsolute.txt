@@ -1,0 +1,44 @@
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\bin\Debug\ConnectDataBase.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\bin\Debug\ConnectDataBase.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\bin\Debug\System.Web.Mvc.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\bin\Debug\System.Web.Razor.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\bin\Debug\System.Web.WebPages.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.CopyComplete
+D:\website\QuanLyBanHang\ConnectDataBase\bin\Debug\ConnectDataBase.dll
+D:\website\QuanLyBanHang\ConnectDataBase\bin\Debug\ConnectDataBase.pdb
+D:\website\QuanLyBanHang\ConnectDataBase\bin\Debug\Newtonsoft.Json.dll
+D:\website\QuanLyBanHang\ConnectDataBase\bin\Debug\System.Web.Razor.dll
+D:\website\QuanLyBanHang\ConnectDataBase\bin\Debug\System.Web.WebPages.Razor.dll
+D:\website\QuanLyBanHang\ConnectDataBase\bin\Debug\System.Web.WebPages.dll
+D:\website\QuanLyBanHang\ConnectDataBase\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\website\QuanLyBanHang\ConnectDataBase\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\website\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csprojAssemblyReference.cache
+D:\website\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.CopyComplete
+D:\website\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.dll
+D:\website\QuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\ConnectDataBase\bin\Debug\ConnectDataBase.dll
+D:\__dhsp\___web\WebQuanLyBanHang\ConnectDataBase\bin\Debug\ConnectDataBase.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\ConnectDataBase\bin\Debug\Newtonsoft.Json.dll
+D:\__dhsp\___web\WebQuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csprojAssemblyReference.cache
+D:\__dhsp\___web\WebQuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.CoreCompileInputs.cache
+D:\__dhsp\___web\WebQuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.CopyComplete
+D:\__dhsp\___web\WebQuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.dll
+D:\__dhsp\___web\WebQuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ConnectDataBase\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\ConnectDataBase\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ConnectDataBase\bin\Debug\Newtonsoft.Json.dll
+D:\data\CN_Web\WebQuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\ConnectDataBase\obj\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ConnectDataBase\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ConnectDataBase\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ConnectDataBase\bin\Debug\Microsoft.Owin.xml

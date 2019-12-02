@@ -1,0 +1,53 @@
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeExecuteSaveBusiness.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeExecuteSaveBusiness.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\ConnectDataBase.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Employee.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeRepository.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\ConnectDataBase.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeRepository.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Employee.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csproj.CopyComplete
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeExecuteSaveBusiness.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeExecuteSaveBusiness.pdb
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeExecuteSaveBusiness.dll
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeExecuteSaveBusiness.pdb
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\ConnectDataBase.dll
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Employee.dll
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeRepository.dll
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\ConnectDataBase.pdb
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeRepository.pdb
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Employee.pdb
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csprojAssemblyReference.cache
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csproj.CopyComplete
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeExecuteSaveBusiness.dll
+D:\website\QuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeExecuteSaveBusiness.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeExecuteSaveBusiness.dll
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeExecuteSaveBusiness.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\ConnectDataBase.dll
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Employee.dll
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\ConnectDataBase.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Employee.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csprojAssemblyReference.cache
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csproj.CoreCompileInputs.cache
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csproj.CopyComplete
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeExecuteSaveBusiness.dll
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeExecuteSaveBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeExecuteSaveBusiness.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeExecuteSaveBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Employee.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\EmployeeRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Employee.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeBusiness.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeExecuteSaveBusiness.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\obj\Debug\EmployeeExecuteSaveBusiness.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeExecuteSaveBusiness\bin\Debug\Microsoft.Owin.xml

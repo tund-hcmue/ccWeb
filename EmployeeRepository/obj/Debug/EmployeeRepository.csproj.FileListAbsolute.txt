@@ -1,0 +1,45 @@
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\bin\Debug\EmployeeRepository.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\bin\Debug\EmployeeRepository.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\bin\Debug\ConnectDataBase.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\bin\Debug\Employee.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\bin\Debug\ConnectDataBase.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\bin\Debug\Employee.pdb
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csproj.CopyComplete
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.dll
+C:\Users\Nguyen Hoang Duy\source\repos\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.pdb
+D:\website\QuanLyBanHang\EmployeeRepository\bin\Debug\EmployeeRepository.dll
+D:\website\QuanLyBanHang\EmployeeRepository\bin\Debug\EmployeeRepository.pdb
+D:\website\QuanLyBanHang\EmployeeRepository\bin\Debug\ConnectDataBase.dll
+D:\website\QuanLyBanHang\EmployeeRepository\bin\Debug\Employee.dll
+D:\website\QuanLyBanHang\EmployeeRepository\bin\Debug\ConnectDataBase.pdb
+D:\website\QuanLyBanHang\EmployeeRepository\bin\Debug\Employee.pdb
+D:\website\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csprojAssemblyReference.cache
+D:\website\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csproj.CoreCompileInputs.cache
+D:\website\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csproj.CopyComplete
+D:\website\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.dll
+D:\website\QuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\EmployeeRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\EmployeeRepository.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\ConnectDataBase.dll
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Employee.dll
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\ConnectDataBase.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Employee.pdb
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csprojAssemblyReference.cache
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csproj.CoreCompileInputs.cache
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csproj.CopyComplete
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.dll
+D:\__dhsp\___web\WebQuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\EmployeeRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\EmployeeRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Employee.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Employee.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Microsoft.Owin.xml

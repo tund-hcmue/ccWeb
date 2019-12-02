@@ -1,0 +1,5 @@
+E:\website\QuanLyBanHang\Vender\bin\Debug\Vender.dll
+E:\website\QuanLyBanHang\Vender\bin\Debug\Vender.pdb
+E:\website\QuanLyBanHang\Vender\obj\Debug\Vender.csproj.CoreCompileInputs.cache
+E:\website\QuanLyBanHang\Vender\obj\Debug\Vender.dll
+E:\website\QuanLyBanHang\Vender\obj\Debug\Vender.pdb
