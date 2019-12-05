@@ -878,3 +878,4 @@ D:\data\CN_Web\WebQuanLyBanHang\ccWeb\QuanLyBanHang\obj\Debug\QuanLyBanHang.dll
 D:\data\CN_Web\WebQuanLyBanHang\ccWeb\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
 D:\data\CN_Web\WebQuanLyBanHang\ccWeb\QuanLyBanHang\bin\EPPlus.dll
 D:\data\CN_Web\WebQuanLyBanHang\ccWeb\QuanLyBanHang\bin\EPPlus.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\QuanLyBanHang\bin\Rotativa.dll

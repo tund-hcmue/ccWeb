@@ -9,6 +9,7 @@ using System.Dynamic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Rotativa;
 
 namespace QuanLyBanHang.Controllers
 {
@@ -35,6 +36,7 @@ namespace QuanLyBanHang.Controllers
             this.ViewBag.Result = result;
             return View();
         }
+        
         //
         public void ExportExcel(SaleListAction CommandAction)
         {
@@ -57,8 +59,7 @@ namespace QuanLyBanHang.Controllers
             ws.Cells["D6"].Value = "Nhân viên bán hàng";
             ws.Cells["E6"].Value = "Số lượng";
             ws.Cells["F6"].Value = "Tổng tiền";
-            ws.Cells["G6"].Value = "Trạng thái";
-            //ws.Cells["H6"].Value = "Ghi chú";
+            ws.Cells["G6"].Value = "Ghi chú";
 
             int rowStart = 7;
             foreach (var item in this.ViewBag.Result)
@@ -69,8 +70,7 @@ namespace QuanLyBanHang.Controllers
                 ws.Cells[string.Format("D{0}", rowStart)].Value = item.EmployeeName;
                 ws.Cells[string.Format("E{0}", rowStart)].Value = Convert.ToInt32(item.Qty).ToString("#,##0");
                 ws.Cells[string.Format("F{0}", rowStart)].Value = Convert.ToInt32(item.Total).ToString("#,##0");
-                ws.Cells[string.Format("G{0}", rowStart)].Value = item.StatusShow;
-                //ws.Cells[string.Format("H{0}", rowStart)].Value = item.Note;
+                ws.Cells[string.Format("G{0}", rowStart)].Value = item.Note;
                 rowStart++;
             }
             ws.Cells["A:AZ"].AutoFitColumns();

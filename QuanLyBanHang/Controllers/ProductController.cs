@@ -35,9 +35,9 @@ namespace QuanLyBanHang.Controllers
             ws.Cells["A3"].Value = "Date";
             ws.Cells["B3"].Value = string.Format("{0:dd MMM yyyy} at {0:H: mm tt};", DateTimeOffset.Now);
 
-            ws.Cells["A6"].Value = "ProductId";
-            ws.Cells["B6"].Value = "ProductName";
-            ws.Cells["C6"].Value = "Price";
+            ws.Cells["A6"].Value = "Mã";
+            ws.Cells["B6"].Value = "Tên nhà cung cấp";
+            ws.Cells["C6"].Value = "Giá";
             ws.Cells["D6"].Value = "Barcode";
 
             int rowStart = 7;

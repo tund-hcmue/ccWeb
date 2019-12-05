@@ -34,11 +34,11 @@ namespace QuanLyBanHang.Controllers
             ws.Cells["A3"].Value = "Date";
             ws.Cells["B3"].Value = string.Format("{0:dd MMM yyyy} at {0:H: mm tt};", DateTimeOffset.Now);
 
-            ws.Cells["A6"].Value = "EmployeeId";
-            ws.Cells["B6"].Value = "EmployeeName";
-            ws.Cells["C6"].Value = "Phone";
+            ws.Cells["A6"].Value = "Mã";
+            ws.Cells["B6"].Value = "Tên nhân viên";
+            ws.Cells["C6"].Value = "Số điện thoại";
             ws.Cells["D6"].Value = "Email";
-            ws.Cells["E6"].Value = "Address";
+            ws.Cells["E6"].Value = "Địa chỉ";
 
             int rowStart = 7;
             foreach (var item in this.ViewBag.Result)

@@ -36,18 +36,18 @@ namespace QuanLyBanHang.Controllers
             ws.Cells["A3"].Value = "Date";
             ws.Cells["B3"].Value = string.Format("{0:dd MMM yyyy} at {0:H: mm tt};", DateTimeOffset.Now);
 
-            ws.Cells["A6"].Value = "CustomerId";
-            ws.Cells["B6"].Value = "Phone";
+            ws.Cells["A6"].Value = "Mã";
+            ws.Cells["B6"].Value = "Tên khách hàng";
             ws.Cells["C6"].Value = "Email";
-            ws.Cells["D6"].Value = "CustomerName";
+            ws.Cells["D6"].Value = "Số điện thoại";
 
             int rowStart = 7;
             foreach (var item in this.ViewBag.Result)
             {
                 ws.Cells[string.Format("A{0}", rowStart)].Value = item.CustomerId;
                 ws.Cells[string.Format("B{0}", rowStart)].Value = item.CustomerName;
-                ws.Cells[string.Format("C{0}", rowStart)].Value = item.Phone;
-                ws.Cells[string.Format("D{0}", rowStart)].Value = item.Email;
+                ws.Cells[string.Format("C{0}", rowStart)].Value = item.Email;
+                ws.Cells[string.Format("D{0}", rowStart)].Value = item.Phone;
                 rowStart++;
             }
             ws.Cells["A:AZ"].AutoFitColumns();

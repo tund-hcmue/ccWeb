@@ -34,13 +34,11 @@
                     <div class="btn-toolbar pull-right clearfix">
                         <div class="btn-group">
                             <a class="btn btn-circle show-tooltip" onclick="onBtnAdd();" title="Thêm" href="#"><i class="fa fa-plus"></i></a>
-                            <a class="btn btn-circle show-tooltip" title="Edit selected" href="#"><i class="fa fa-edit"></i></a>
                         </div>
                         <div class="btn-group">
                             <a class="btn btn-circle show-tooltip" onclick="SalePrintPDF();" title="In PDF" href="#"><i class="fa fa-file-pdf-o"></i></a>
-                            <a class="btn btn-circle show-tooltip" title="Export to PDF" href="#"><i class="fa fa-file-text-o"></i></a>
-                            <a class="btn btn-circle show-tooltip" title="Export to Exel" href="#"><i class="fa fa-table"></i></a>
-                        </div>
+                            <a class="btn btn-circle show-tooltip" title="Export to Exel" href="@Url.Action("ExportExcel", "Sale")"><i class="fa fa-table"></i></a>
+                        </div>  
                         <div class="btn-group">
                             <a class="btn btn-circle show-tooltip" title="Refresh" href="#"><i class="fa fa-repeat"></i></a>
                         </div>
@@ -92,9 +90,6 @@
 
                             </tbody>
                         </table>
-                        <a href="@Url.Action("ExportExcel","Sale")" class="btn btn-primary">
-                            Export Excel
-                        </a>
                     </div>
                 </div>
             </div>
