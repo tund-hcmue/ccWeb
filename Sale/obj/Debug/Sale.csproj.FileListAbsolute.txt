@@ -24,3 +24,13 @@ D:\data\CN_Web\WebQuanLyBanHang\Sale\obj\Debug\Sale.pdb
 D:\data\CN_Web\WebQuanLyBanHang\Sale\bin\Debug\Microsoft.Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\Sale\bin\Debug\Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\Sale\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\bin\Debug\Sale.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\bin\Debug\Sale.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\obj\Debug\Sale.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\obj\Debug\Sale.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\obj\Debug\Sale.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\bin\Debug\EPPlus.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Sale\bin\Debug\EPPlus.xml

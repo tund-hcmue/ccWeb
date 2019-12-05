@@ -26,3 +26,15 @@ D:\data\CN_Web\WebQuanLyBanHang\VenderRepository\obj\Debug\VenderRepository.cspr
 D:\data\CN_Web\WebQuanLyBanHang\VenderRepository\bin\Debug\Microsoft.Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\VenderRepository\bin\Debug\Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\VenderRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\bin\Debug\VenderRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\bin\Debug\VenderRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\obj\Debug\VenderRepository.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\obj\Debug\VenderRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\obj\Debug\VenderRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\bin\Debug\EPPlus.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\VenderRepository\bin\Debug\EPPlus.xml

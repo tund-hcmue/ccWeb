@@ -43,3 +43,17 @@ D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\obj\Debug\EmployeeRepository.
 D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Microsoft.Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\EmployeeRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\EmployeeRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\EmployeeRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\Employee.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\Employee.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\obj\Debug\EmployeeRepository.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\obj\Debug\EmployeeRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\obj\Debug\EmployeeRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\EPPlus.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\EmployeeRepository\bin\Debug\EPPlus.xml

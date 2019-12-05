@@ -35,3 +35,15 @@ D:\data\CN_Web\WebQuanLyBanHang\Employee\obj\Debug\Employee.pdb
 D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\Microsoft.Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\Employee\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\bin\Debug\Employee.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\bin\Debug\Employee.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\obj\Debug\Employee.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\obj\Debug\Employee.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\bin\Debug\EPPlus.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\Employee\bin\Debug\EPPlus.xml

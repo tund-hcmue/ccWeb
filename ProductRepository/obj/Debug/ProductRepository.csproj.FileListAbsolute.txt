@@ -32,3 +32,17 @@ D:\data\CN_Web\WebQuanLyBanHang\ProductRepository\obj\Debug\ProductRepository.pd
 D:\data\CN_Web\WebQuanLyBanHang\ProductRepository\bin\Debug\Microsoft.Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\ProductRepository\bin\Debug\Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\ProductRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\ProductRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\ProductRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\Product.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\Product.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\obj\Debug\ProductRepository.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\obj\Debug\ProductRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\obj\Debug\ProductRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\EPPlus.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\ProductRepository\bin\Debug\EPPlus.xml

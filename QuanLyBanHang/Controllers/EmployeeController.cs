@@ -1,4 +1,5 @@
 ﻿using ConnectDataBase;
+using OfficeOpenXml;
 using QuanLyBanHang.Models;
 using System;
 using System.Collections.Generic;
@@ -17,6 +18,46 @@ namespace QuanLyBanHang.Controllers
             this.ViewBag.Result = CommandAction.Execute();
             return View();
         }
+        //
+        public void ExportExcel(EmployeeListAction CommandAction)
+        {
+            this.ViewBag.Result = CommandAction.Execute();
+
+            ExcelPackage pck = new ExcelPackage();
+            ExcelWorksheet ws = pck.Workbook.Worksheets.Add("Report");
+            ws.Cells["A1"].Value = "Title";
+            ws.Cells["B1"].Value = "Title";
+
+            ws.Cells["A2"].Value = "Table";
+            ws.Cells["B2"].Value = "Employee";
+
+            ws.Cells["A3"].Value = "Date";
+            ws.Cells["B3"].Value = string.Format("{0:dd MMM yyyy} at {0:H: mm tt};", DateTimeOffset.Now);
+
+            ws.Cells["A6"].Value = "EmployeeId";
+            ws.Cells["B6"].Value = "EmployeeName";
+            ws.Cells["C6"].Value = "Phone";
+            ws.Cells["D6"].Value = "Email";
+            ws.Cells["E6"].Value = "Address";
+
+            int rowStart = 7;
+            foreach (var item in this.ViewBag.Result)
+            {
+                ws.Cells[string.Format("A{0}", rowStart)].Value = item.EmployeeId;
+                ws.Cells[string.Format("B{0}", rowStart)].Value = item.EmployeeName;
+                ws.Cells[string.Format("C{0}", rowStart)].Value = item.Phone;
+                ws.Cells[string.Format("D{0}", rowStart)].Value = item.Email;
+                ws.Cells[string.Format("E{0}", rowStart)].Value = item.Address;
+                rowStart++;
+            }
+            ws.Cells["A:AZ"].AutoFitColumns();
+            Response.Clear();
+            Response.ContentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+            Response.AddHeader("content-disposition", "attachment: filename=" + "ExcelReport.xlsx");
+            Response.BinaryWrite(pck.GetAsByteArray());
+            Response.End();
+        }
+        //
         public ActionResult EmployeeInput(EmployeeInputAction CommandAction)
         {
             this.ViewBag.Result = CommandAction.Execute();

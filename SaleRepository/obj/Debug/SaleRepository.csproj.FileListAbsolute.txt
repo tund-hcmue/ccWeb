@@ -21,3 +21,17 @@ D:\data\CN_Web\WebQuanLyBanHang\SaleRepository\obj\Debug\SaleRepository.pdb
 D:\data\CN_Web\WebQuanLyBanHang\SaleRepository\bin\Debug\Microsoft.Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\SaleRepository\bin\Debug\Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\SaleRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\SaleRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\SaleRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\Sale.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\Sale.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\obj\Debug\SaleRepository.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\obj\Debug\SaleRepository.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\obj\Debug\SaleRepository.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\EPPlus.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\SaleRepository\bin\Debug\EPPlus.xml

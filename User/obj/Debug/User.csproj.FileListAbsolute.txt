@@ -35,3 +35,15 @@ D:\data\CN_Web\WebQuanLyBanHang\User\obj\Debug\User.pdb
 D:\data\CN_Web\WebQuanLyBanHang\User\bin\Debug\Microsoft.Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\User\bin\Debug\Owin.dll
 D:\data\CN_Web\WebQuanLyBanHang\User\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\bin\Debug\User.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\bin\Debug\User.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\bin\Debug\ConnectDataBase.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\bin\Debug\Microsoft.Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\bin\Debug\Owin.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\bin\Debug\ConnectDataBase.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\bin\Debug\Microsoft.Owin.xml
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\obj\Debug\User.csprojResolveAssemblyReference.cache
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\obj\Debug\User.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\obj\Debug\User.pdb
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\bin\Debug\EPPlus.dll
+D:\data\CN_Web\WebQuanLyBanHang\ccWeb\User\bin\Debug\EPPlus.xml
