@@ -1,4 +1,5 @@
 ﻿using System;
+using OfficeOpenXml;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -19,6 +20,44 @@ namespace QuanLyBanHang.Controllers
             this.ViewBag.Result = CommandAction.Execute();
             return View();
         }
+        //
+        public void ExportExcel(CustomerListAcion CommandAction)
+        {
+            this.ViewBag.Result = CommandAction.Execute();
+
+            ExcelPackage pck = new ExcelPackage();
+            ExcelWorksheet ws = pck.Workbook.Worksheets.Add("Report");
+            ws.Cells["A1"].Value = "Title";
+            ws.Cells["B1"].Value = "Title";
+
+            ws.Cells["A2"].Value = "Table";
+            ws.Cells["B2"].Value = "Customer";
+
+            ws.Cells["A3"].Value = "Date";
+            ws.Cells["B3"].Value = string.Format("{0:dd MMM yyyy} at {0:H: mm tt};", DateTimeOffset.Now);
+
+            ws.Cells["A6"].Value = "CustomerId";
+            ws.Cells["B6"].Value = "Phone";
+            ws.Cells["C6"].Value = "Email";
+            ws.Cells["D6"].Value = "CustomerName";
+
+            int rowStart = 7;
+            foreach (var item in this.ViewBag.Result)
+            {
+                ws.Cells[string.Format("A{0}", rowStart)].Value = item.CustomerId;
+                ws.Cells[string.Format("B{0}", rowStart)].Value = item.CustomerName;
+                ws.Cells[string.Format("C{0}", rowStart)].Value = item.Phone;
+                ws.Cells[string.Format("D{0}", rowStart)].Value = item.Email;
+                rowStart++;
+            }
+            ws.Cells["A:AZ"].AutoFitColumns();
+            Response.Clear();
+            Response.ContentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+            Response.AddHeader("content-disposition", "attachment: filename=" + "ExcelReport.xlsx");
+            Response.BinaryWrite(pck.GetAsByteArray());
+            Response.End();
+        }
+        //
         public ActionResult CustomerInput(CustomerInputAction CommandAction)
         {
             this.ViewBag.Result = new List<dynamic>();

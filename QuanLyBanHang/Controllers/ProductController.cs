@@ -1,4 +1,5 @@
 ﻿using ConnectDataBase;
+using OfficeOpenXml;
 using QuanLyBanHang.Models;
 using Repository;
 using System;
@@ -18,7 +19,44 @@ namespace QuanLyBanHang.Controllers
             this.ViewBag.Result = CommandAction.Execute();
             return View();
         }
-        
+        //
+        public void ExportExcel(ProductListAction CommandAction)
+        {
+            this.ViewBag.Result = CommandAction.Execute();
+
+            ExcelPackage pck = new ExcelPackage();
+            ExcelWorksheet ws = pck.Workbook.Worksheets.Add("Report");
+            ws.Cells["A1"].Value = "Title";
+            ws.Cells["B1"].Value = "Title";
+
+            ws.Cells["A2"].Value = "Table";
+            ws.Cells["B2"].Value = "Product";
+
+            ws.Cells["A3"].Value = "Date";
+            ws.Cells["B3"].Value = string.Format("{0:dd MMM yyyy} at {0:H: mm tt};", DateTimeOffset.Now);
+
+            ws.Cells["A6"].Value = "ProductId";
+            ws.Cells["B6"].Value = "ProductName";
+            ws.Cells["C6"].Value = "Price";
+            ws.Cells["D6"].Value = "Barcode";
+
+            int rowStart = 7;
+            foreach (var item in this.ViewBag.Result)
+            {
+                ws.Cells[string.Format("A{0}", rowStart)].Value = item.ProductId;
+                ws.Cells[string.Format("B{0}", rowStart)].Value = item.ProductName;
+                ws.Cells[string.Format("C{0}", rowStart)].Value = item.Price;
+                ws.Cells[string.Format("D{0}", rowStart)].Value = item.Barcode;
+                rowStart++;
+            }
+            ws.Cells["A:AZ"].AutoFitColumns();
+            Response.Clear();
+            Response.ContentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+            Response.AddHeader("content-disposition", "attachment: filename=" + "ExcelReport.xlsx");
+            Response.BinaryWrite(pck.GetAsByteArray());
+            Response.End();
+        }
+        //
         public ActionResult PrintBarCode(ProductListAction CommandAction)
         {
             this.ViewBag.Result = CommandAction.Execute();
